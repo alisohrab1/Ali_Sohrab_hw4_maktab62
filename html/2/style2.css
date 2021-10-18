@@ -1,0 +1,70 @@
+.container {
+  margin: auto;
+  background-color: blue;
+  width: 400px;
+  height: 500px;
+}
+
+.box1 {
+  background-color: red;
+  width: 235px;
+  height: 355px;
+  float: right;
+  border: 5px solid black;
+  border-width: 5px 5px 5px 10px;
+}
+
+.box2 {
+  background-color: cornsilk;
+  width: 150px;
+  height: 145px;
+  /* float:right; */
+  border: solid black;
+  border-width: 5px 10px 10px 5px;
+}
+
+.box3 {
+  background-color: cornsilk;
+  width: 150px;
+  height: 195px;
+  /* float:right; */
+  border: 5px solid black;
+  /* border-top: 10px 5px 5px 5px; */
+}
+
+.box4 {
+  background-color: aqua;
+  width: 145px;
+  height: 125px;
+  float: left;
+  border: 5px solid black;
+  /* display: inline-block; */
+  /* border-top: 10px 5px 5px 5px; */
+}
+
+.box5 {
+  background-color: cornsilk;
+  width: 185px;
+  height: 125px;
+  float: left;
+  border: 5px solid black;
+  /* display: inline-block; */
+}
+
+.box6 {
+  background-color: cornsilk;
+  width: 40px;
+  height: 55px;
+  float: left;
+  border: solid black;
+  border-width: 5px 5px 10px 5px;
+}
+
+.box7 {
+  background-color: yellow;
+  width: 40px;
+  height: 55px;
+  float: left;
+  border: solid black;
+  border-width: 5px 5px 5px 5px;
+}
